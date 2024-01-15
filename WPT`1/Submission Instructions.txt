@@ -1,0 +1,5 @@
+Instructions:
+1. Design a web page precisely the same as the image file Web.png. Required images have already been added to the assignment folder.
+2. Zip your assignment and name it as <Your full PRN>-<First Name>.zip 
+3. Submission Link: https://cf.cdacb.in/index.php/s/gDRO1mNp0Xm22Q5
+4. Last date for submission: 11-11-2023 00:00 IST 
